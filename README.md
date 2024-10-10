@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Patphy01
--Hotel Manager / Data scientist with a strong focus on data analysis and visual storytelling. Proficient in leveraging Python, NumPy, Seaborn, and Matplotlib to explore, analyze, and visualize data for business decision-making. Experienced in translating complex data into clear, actionable insights through interactive visualizations and dashboards. Passionate about creating data-driven solutions that enable informed decision-making. Skilled in statistical analysis, machine learning, and data wrangling.
+- Data scientist with a strong focus on data analysis and visual storytelling. Proficient in leveraging Python, NumPy, Seaborn, and Matplotlib to explore, analyze, and visualize data for business decision-making. Experienced in translating complex data into clear, actionable insights through interactive visualizations and dashboards. Passionate about creating data-driven solutions that enable informed decision-making. Skilled in statistical analysis, machine learning, and data wrangling.
 
 Skills
 Programming & Analysis Tools:
